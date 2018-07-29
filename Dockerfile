@@ -1,2 +1,2 @@
 FROM jetty:latest
-COPY target/*.war /var/lib/jetty/webapps/
+#COPY target/*.war /var/lib/jetty/webapps/
